@@ -2,6 +2,8 @@
 
 This will be my graduation work.
 
+I am training Geo-FNO for simulation of injection mold with cooling channels
+
 References:
 
 https://arxiv.org/html/2410.04655v2
